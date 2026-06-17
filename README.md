@@ -39,6 +39,3 @@ Backend
 
  Email: 8121.cs.deepa@gmail.com
  LinkedIn: https://www.linkedin.com/in/deepa9924/
-
-
-⭐ Thank you for visiting my GitHub profile!
