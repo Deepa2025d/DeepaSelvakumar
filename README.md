@@ -2,7 +2,7 @@
 
  Hi , I'm Deepa Selvakumar
 
- Java Full Stack Developer | Fresher
+ Java Full Stack Developer | DevOps Learner | Fresher
 
 I am a passionate and motivated Java Full Stack Developer seeking full-time opportunities in software development. I enjoy building responsive web applications and learning new technologies to solve real-world problems.
 
@@ -38,8 +38,7 @@ Backend
  Connect With Me
 
  Email: 8121.cs.deepa@gmail.com
--  LinkedIn: https://www.linkedin.com/in/deepa9924/
+ LinkedIn: https://www.linkedin.com/in/deepa9924/
 
----
 
 ⭐ Thank you for visiting my GitHub profile!
