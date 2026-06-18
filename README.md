@@ -11,7 +11,7 @@
 - 🛠️ Interested in developing scalable and user-friendly applications
 - 🚀 Actively seeking Software Developer opportunities
 
-
+---
 
 🛠️ Tech Stack
 
