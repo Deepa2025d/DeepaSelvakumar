@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepa Selvakumar</h1><h3 align="center">🚀 Java Full Stack Developer | DevOps Learner</h3><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;DevOps+Learner;Passionate+Software+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>---
-
+<hr>
 🌟 About Me
 
 - 🎓 Bachelor's Degree Graduate
@@ -35,7 +35,6 @@ Languages
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 📫 Connect With Me
